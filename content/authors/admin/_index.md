@@ -57,10 +57,8 @@ education:
     date_start: 2023-08-23
     date_end: ''
     summary: |
-      Supervised by [Prof Yiannis Aloimonos](http://users.umiacs.umd.edu/~yiannis/).
-    # button:
-    #   text: 'Read Thesis'
-    #   url: 'https://example.com'
+      Supervised by Prof. Yiannis Aloimonos.
+    
   - area: M.S.(Thesis) Electrical and Computer Engineering
     institution: University of Florida
     date_start: 2021-08-23
@@ -68,7 +66,10 @@ education:
     summary: |
       GPA: 3.8/4.0
 
-      Supervised by [Prof Md Jahidul Islam](https://jahid.ece.ufl.edu/).
+      Supervised by Prof. Md Jahidul Islam.
+    button:
+      text: 'Read Thesis'
+      url: 'https://ufdc.ufl.edu/UFE0059937/00001/pdf'
 
   - area: B.E. Mechatronic Engineering
     institution: Zhejiang Sci-Tech University (ZSTU)
