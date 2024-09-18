@@ -180,4 +180,4 @@ awards:
 
 ## About Me
 
-Chien Shiung Wu is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+I am Jiayi Wu, a Ph.D. student supervised by Prof. Yiannis Aloimonos at PRG (Perception & Robotics Group) Lab, University of Maryland, College Park. My research focuses on computer vision and robotics, specifically in the areas of active vision, field robotics, and underwater 3D vision. Inspired by nature, I am dedicated to creating innovative robot perception systems that challenge existing paradigms and redefine the future of robotics.
