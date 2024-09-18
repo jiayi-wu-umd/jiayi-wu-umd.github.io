@@ -70,21 +70,15 @@ education:
 
       Supervised by [Prof Md Jahidul Islam](https://jahid.ece.ufl.edu/).
 
-      # Courses included:
-      # - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      # - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      # - lorem ipsum dolor sit amet, consectetur adipiscing elit
   - area: B.E. Mechatronic Engineering
     institution: Zhejiang Sci-Tech University (ZSTU)
     date_start: 2017-09-15
     date_end: 2021-06-15
     summary: |
       GPA: 86/100
+
+      2021 Outstanding Graduate, Zhejiang Sci-Tech University
       
-      # Courses included:
-      # - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      # - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      # - lorem ipsum dolor sit amet, consectetur adipiscing elit
 work:
   - position: Director of Cloud Infrastructure
     company_name: GenCoin
