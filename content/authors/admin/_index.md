@@ -55,7 +55,7 @@ education:
   - area: Ph.D. Computer Science
     institution: University of Maryland, College Park
     date_start: 2023-08-23
-    date_end: Present
+    date_end: 2020-12-31
     summary: |
       Thesis on _Why LLMs are awesome_. Supervised by [Prof Joe Smith](https://example.com). Presented papers at 5 IEEE conferences with the contributions being published in 2 Springer journals.
     button:
