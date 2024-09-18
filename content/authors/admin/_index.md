@@ -68,21 +68,23 @@ education:
     summary: |
       GPA: 3.8/4.0
 
+      Supervised by [Prof Md Jahidul Islam](https://jahid.ece.ufl.edu/).
+
       # Courses included:
       # - lorem ipsum dolor sit amet, consectetur adipiscing elit
       # - lorem ipsum dolor sit amet, consectetur adipiscing elit
       # - lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - area: BSc Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    date_start: 2016-01-01
-    date_end: 2020-12-31
+  - area: B.E. Mechatronic Engineering
+    institution: Zhejiang Sci-Tech University (ZSTU)
+    date_start: 2017-09-15
+    date_end: 2021-06-15
     summary: |
-      GPA: 3.4/4.0
+      GPA: 86/100
       
-      Courses included:
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
+      # Courses included:
+      # - lorem ipsum dolor sit amet, consectetur adipiscing elit
+      # - lorem ipsum dolor sit amet, consectetur adipiscing elit
+      # - lorem ipsum dolor sit amet, consectetur adipiscing elit
 work:
   - position: Director of Cloud Infrastructure
     company_name: GenCoin
