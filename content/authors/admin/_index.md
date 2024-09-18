@@ -55,12 +55,12 @@ education:
   - area: Ph.D. Computer Science
     institution: University of Maryland, College Park
     date_start: 2023-08-23
-    date_end: 2020-12-31
+    date_end: ''
     summary: |
-      Thesis on _Why LLMs are awesome_. Supervised by [Prof Joe Smith](https://example.com). Presented papers at 5 IEEE conferences with the contributions being published in 2 Springer journals.
-    button:
-      text: 'Read Thesis'
-      url: 'https://example.com'
+      Supervised by [Prof. Yiannis Aloimonos](http://users.umiacs.umd.edu/~yiannis/).
+    # button:
+    #   text: 'Read Thesis'
+    #   url: 'https://example.com'
   - area: MEng Artificial Intelligence
     institution: Massachusetts Institute of Technology
     date_start: 2016-01-01
