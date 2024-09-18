@@ -3,15 +3,15 @@
 title: Jiayi Wu
 
 # Name pronunciation (optional)
-name_pronunciation: Chien Shiung Wu
+name_pronunciation: ''
 
 # Full name (for SEO)
-first_name: Shiung Wu
-last_name: Chien
+first_name: Jiayi
+last_name: Wu
 
 # Status emoji
 status:
-  icon: ☕️
+  icon: 🛩
 
 # Is this the primary user of the site?
 superuser: true
@@ -20,40 +20,40 @@ superuser: true
 highlight_name: true
 
 # Role/position/tagline
-role: Chief Scientist
+role: Ph.D. Student
 
 # Organizations/Affiliations to display in Biography blox
 organizations:
-  - name: OpenAI
-    url: https://openai.com/
+  - name: University of Maryland, College Park
+    url: http://prg.cs.umd.edu/
 
 # Social network links
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
 profiles:
   - icon: at-symbol
-    url: 'mailto:your-email@example.com'
+    url: 'mailto:jiayiwu@umd.edu'
     label: E-mail Me
   - icon: brands/x
-    url: https://twitter.com/GetResearchDev
-  - icon: brands/instagram
-    url: https://www.instagram.com/
+    url: https://twitter.com/Jiayi_Wu_Leo
+  # - icon: brands/instagram
+  #   url: https://www.instagram.com/
   - icon: brands/github
-    url: https://github.com/gcushen
+    url: https://github.com/jiayi-wu-umd
   - icon: brands/linkedin
-    url: https://www.linkedin.com/
+    url: https://www.linkedin.com/in/jiayi-wu-leo
   - icon: academicons/google-scholar
-    url: https://scholar.google.com/
+    url: https://scholar.google.com/citations?user=xoZE1GsAAAAJ&hl
   - icon: academicons/orcid
-    url: https://orcid.org/
+    url: https://orcid.org/0009-0004-6601-4963
 
 interests:
-  - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
+  - Field Robot Perception
+  - Active Vision
+  - Spatial Reasoning
 
 education:
-  - area: PhD Artificial Intelligence
-    institution: Stanford University
+  - area: Ph.D. Computer Science
+    institution: University of Maryland, College Park
     date_start: 2016-01-01
     date_end: 2020-12-31
     summary: |
