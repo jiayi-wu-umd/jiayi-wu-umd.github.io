@@ -57,21 +57,21 @@ education:
     date_start: 2023-08-23
     date_end: ''
     summary: |
-      Supervised by [Prof. Yiannis Aloimonos](http://users.umiacs.umd.edu/~yiannis/).
+      Supervised by [Prof Yiannis Aloimonos](http://users.umiacs.umd.edu/~yiannis/).
     # button:
     #   text: 'Read Thesis'
     #   url: 'https://example.com'
-  - area: MEng Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    date_start: 2016-01-01
-    date_end: 2020-12-31
+  - area: M.S.(Thesis) Electrical and Computer Engineering
+    institution: University of Florida
+    date_start: 2021-08-23
+    date_end: 2023-05-30
     summary: |
       GPA: 3.8/4.0
 
-      Courses included:
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
+      # Courses included:
+      # - lorem ipsum dolor sit amet, consectetur adipiscing elit
+      # - lorem ipsum dolor sit amet, consectetur adipiscing elit
+      # - lorem ipsum dolor sit amet, consectetur adipiscing elit
   - area: BSc Artificial Intelligence
     institution: Massachusetts Institute of Technology
     date_start: 2016-01-01
